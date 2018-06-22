@@ -30,7 +30,7 @@ iframe {
 	position: relative;
 	left: 10px;
 	bottom: 90px;
-  top: 5px;
+  top: 45px;
   text-align: center;
 }
 
@@ -67,7 +67,7 @@ p {
 
 .container {
   width:900px;
-  height:725px;
+  height:1000px;
   margin: auto auto;
   border-left: 2px solid white;
   border-right: 2px solid white;
