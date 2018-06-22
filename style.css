@@ -1,8 +1,11 @@
 
-
 body {
 	background-image: url("Sherbert.jpg");
-	background-size: 1450px 1000px;
+	background-size: 2000px 1000px;
+  height: 1000px; 
+  width: 1000px;
+  margin: 0px auto;
+  margin-left: 0px auto;
 	/*margin:0px;*/
 }
 
@@ -11,7 +14,7 @@ h1 {
 	border-bottom: 2px solid lightgray;
 	border-right: 2px solid lightgray;
 	width: 305px;
-	box-shadow: 4px 4px 5px #888888;
+	box-shadow: 4px 4px 5px #888888
 	margin-left: 10px;
 	margin-top: 0px;
 	font-family: 'Indie Flower', cursive;
@@ -25,9 +28,9 @@ iframe {
 	border:3px solid black;
 	overflow: hidden;
 	position: relative;
-	/*left: 10px;
+	left: 10px;
 	bottom: 90px;
-  top: 5px;*/
+  top: 5px;
   text-align: center;
 }
 
@@ -52,10 +55,23 @@ button {
 a {
   overflow: hidden;
   position: relative;
-  right: 500px;
-  bottom: 500px;
+  left: 325px;
+  bottom: 525px;
+}
+p {
+  text-align: right;
+  font-family: "Indie Flower", cursive;
+  font-size: 10px;
+  margin-top: 120px;
 }
 
+.container {
+  width:900px;
+  height:725px;
+  margin: auto auto;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+}
 
 @charset "UTF-8";
 
